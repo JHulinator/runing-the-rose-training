@@ -1,0 +1,938 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COROS Training Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COROS Training Plan
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e9@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. Cool down afte
+ r.\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90
+ % HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e107@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e6@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 76\n\nlight
+  warm up and then 5 miles aerobic endurance. Easy run overall!\n\nWorkout:
+ \n • Warm Up — 5min\n • Training — 5 mi @ 80–90% HR\n • Coo
+ l Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile tempo run
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e8@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 84\n\nlight
+  warm up and then 4 miles aerobic power. light cool down walk and stretch
+ \n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 91–95% 
+ HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e12@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. Cool down afte
+ r.\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90
+ % HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e109@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 mile aerobic endurance
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e4@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 15min\nTraining Load: 122\n\n8 m
+ ile aerobic endurance. Goal is a light warm up and then building mileage. 
+ no need to run anything faster than aerobic endurance. cool down after wit
+ h light walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Trainin
+ g — 8 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 mile aerobic endurance
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e115@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 15min\nTraining Load: 122\n\n8 m
+ ile aerobic endurance. Goal is a light warm up and then building mileage. 
+ no need to run anything faster than aerobic endurance. cool down after wit
+ h light walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Trainin
+ g — 8 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e118@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 76\n\nlight
+  warm up and then 5 miles aerobic endurance. Easy run overall!\n\nWorkout:
+ \n • Warm Up — 5min\n • Training — 5 mi @ 80–90% HR\n • Coo
+ l Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e119@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e87@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile tempo run
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e19@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 5min\nTraining Load: 104\n\n1 mil
+ e warm up\, and then into 5 miles tempo (aerobic power). Cool down after.
+ \n\nWorkout:\n • Warm Up — 1 mi\n • Training — 5 mi @ 91–9
+ 5% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e85@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e117@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 mile long run
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e14@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 12 mi\nDuration: 15min\nTraining Load: 182\n\n12 
+ mile aerobic endurance long run. be sure to cool down after with a light w
+ alk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Training — 19.
+ 19.3 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 mile aerobic endurance
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e15@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 15min\nTraining Load: 122\n\n8 m
+ ile aerobic endurance. Goal is a light warm up and then building mileage. 
+ no need to run anything faster than aerobic endurance. cool down after wit
+ h light walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Trainin
+ g — 8 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e89@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 76\n\nlight
+  5 mile run. keep the pace in your aerobic endurance field. Cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 5 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e137@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2x3 mile threshold
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e22@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 7 mi\nDuration: 15min\nTraining Load: 163\n\n10-
+ min warm up\, 3 miles threshold\, 1 mile recovery\, 3 miles threshold. Coo
+ l down\n\nWorkout:\n • Warm Up — 10min\n • Training — 3 mi @ 96
+ –102% HR\n • Training — 1 mi\n • Training — 3 mi @ 96–10
+ 2% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e134@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 76\n\nlight
+  5 mile run. keep the pace in your aerobic endurance field. Cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 5 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e136@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e26@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:15 mile long run
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e20@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 15 mi\nDuration: 15min\nTraining Load: 228\n\nlig
+ ht warm up followed by 15 miles at aerobic endurance pace. Be sure to work
+  on your hydration and nutrition strategy. cool down with light walk and s
+ tretch\n\nWorkout:\n • Warm Up — 10min\n • Training — 15 mi @ 8
+ 0–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 mile aerobic endurance
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e21@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 10 mi\nDuration: 15min\nTraining Load: 152\n\n10 
+ mile aerobic endurance run. Be sure to warm up and then cool down with a l
+ ight walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Training 
+ — 10 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e139@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 76\n\nlight
+  5 mile run. keep the pace in your aerobic endurance field. Cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 5 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile tempo run
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e140@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 5min\nTraining Load: 104\n\n1 mil
+ e warm up\, and then into 5 miles tempo (aerobic power). Cool down after.
+ \n\nWorkout:\n • Warm Up — 1 mi\n • Training — 5 mi @ 91–9
+ 5% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e93@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 61\n\nlight
+  4 mile run. keep the pace in your aerobic endurance field. cool down afte
+ r\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 80–90%
+  HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to Training - Full Body
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e138@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 46min\n\nThis 45-min session aims to build back over
+ all strength and routine during early season stage. Aim for a RPE of 6-7 f
+ or the first 3 sets\, and 8-9/10 for the last one\, so adjust weights acco
+ rdingly.\n\nWorkout:\n • Warm Up — open\n3×\n   • Squats — 10 rep
+ s (rest 120s)\n   • Bench Press — 10 reps (rest 120s)\n3×\n   • Dum
+ bbell Lunges — 10 reps (rest 120s)\n   • Seated Lat Pulldowns — 10 r
+ eps (rest 120s)\n3×\n   • Bridge — 10 reps (rest 90s)\n   • Planks 
+ — 1min hold (rest 90s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 mile aerobic endurance
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e27@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 10 mi\nDuration: 15min\nTraining Load: 152\n\n10 
+ mile aerobic endurance. Goal is a light warm up and then building mileage.
+  no need to run anything faster than aerobic endurance. cool down after wi
+ th light walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Traini
+ ng — 10 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 mile aerobic endurance
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e28@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 10 mi\nDuration: 15min\nTraining Load: 152\n\n10 
+ mile aerobic endurance. Goal is a light warm up and then building mileage.
+  no need to run anything faster than aerobic endurance. cool down after wi
+ th light walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Traini
+ ng — 10 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e36@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 326\n\nligh
+ t warm up and then 5 miles aerobic endurance. Easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 5 mi @ 77–87% pace\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e149@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e97@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 mile alternating efforts
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e34@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 15min\nTraining Load: 860\n\nlig
+ ht warm up and then 4x1 mile at aerobic power\, 1 mile at threshold. Cool 
+ down after\n\nWorkout:\n • Warm Up — 10min\n4×\n   • Training — 1
+ .37.9 mi @ 88–94% pace\n   • Training — 1 mi @ 95–100% pace\n •
+  Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e95@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e151@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:16 mile long run
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e32@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 16 mi\nDuration: 15min\nTraining Load: 1044\n\n16
+  mile long run. Goal is a nice easy warm up and then start the 16 miles at
+  aerobic endurance. Finish with an easy walk and cool down.\n\nWorkout:\n 
+ • Warm Up — 10min\n • Training — 16 mi @ 77–87% pace\n • Co
+ ol Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 mile aerobic endurance
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e33@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 12 mi\nDuration: 15min\nTraining Load: 783\n\n12 
+ mile aerobic endurance run. Be sure to warm up and then cool down with a l
+ ight walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Training 
+ — 12 mi @ 77–87% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e152@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 391\n\nligh
+ t warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 77–87% pace\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e163@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e210@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8x 1 mile progressive
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e41@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 9 mi\nDuration: 5min\nTraining Load: 168\n\nwarm
+  up mile. then its 8x 1 mile building with 0.25 aerobic endurance\, 0.50 a
+ erobic power\, 0.25 threshold. Be sure to cool down after!\n\nWorkout:\n 
+ • Warm Up — 1 mi\n8×\n   • Training — 402 m @ 80–90% HR\n   
+ • Training — 804 m @ 91–95% HR\n   • Training — 402 m @ 96–102
+ % HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e211@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e164@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18 mile long run
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e159@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 18 mi\nDuration: 15min\nTraining Load: 1174\n\n18
+  mile long run. Goal is a nice easy warm up and then start the 18 miles at
+  aerobic endurance. Finish with an easy walk and cool down.\n\nWorkout:\n 
+ • Warm Up — 10min\n • Training — 18 mi @ 77–87% pace\n • Co
+ ol Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 mile aerobic endurance + aerobic power
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e161@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 12 mi\nDuration: 15min\nTraining Load: 870\n\n3x 
+ repeats of 3 miles at aerobic endurance and 1 mile at aerobic power. Be su
+ re to warm up and then cool down with a light walk and stretch.\n\nWorkout
+ :\n • Warm Up — 10min\n3×\n   • Training — 3 mi @ 77–87% pac
+ e\n   • Training — 1 mi @ 88–94% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e213@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 391\n\nligh
+ t warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 77–87% pace\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e173@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6x1 mile threshold
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e49@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 9 mi\nDuration: 15min\nTraining Load: 209\n\nwar
+ m up followed by 6x1 mile threshold with a 1/2 mile recovery at aerobic en
+ durance effort. cool down after\n\nWorkout:\n • Warm Up — 10min\n6×\n
+    • Training — 1 mi @ 96–102% HR\n   • Rest — 804 m @ 80–9
+ 0% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e212@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e214@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 391\n\nligh
+ t warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 77–87% pace\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e174@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20 mile long run
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e169@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 20 mi\nDuration: 15min\nTraining Load: 1305\n\n20
+  mile long run. Goal is a nice easy warm up and then start the 20 miles at
+  aerobic endurance. Finish with an easy walk and cool down.\n\nWorkout:\n 
+ • Warm Up — 10min\n • Training — 20 mi @ 77–87% pace\n • Co
+ ol Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14 mile aerobic endurance + aerobic power
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e170@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 14 mi\nDuration: 15min\nTraining Load: 1030\n\n2x
+  repeats of 5 miles at aerobic endurance and 2 mile at aerobic power. Be s
+ ure to warm up and then cool down with a light walk and stretch.\n\nWorkou
+ t:\n • Warm Up — 10min\n2×\n   • Training — 5 mi @ 77–87% pa
+ ce\n   • Training — 2 mi @ 88–94% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e215@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e217@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 391\n\nligh
+ t warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 77–87% pace\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e216@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87
+ % pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyweight - Running Specific
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e178@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Duration: 38min\n\nLower body + core workout that do not requi
+ re any equipment. Aim for the last set to reach near failure. You can incr
+ ease intensity with repetitions or adding weight.\n\nWorkout:\n • Warm U
+ p — open\n3×\n   • Box Step-Ups — 20 reps\n   • Knee-Up Walking L
+ unges — 20 reps (rest 60s)\n3×\n   • Split Bench Squat — 20 reps\n 
+   • Balanced Kick Back — 20 reps\n   • Lie On One Leg Supine Hip And
+  Knee — 20 reps (rest 60s)\n3×\n   • Seated Scissor Kicks — 15 reps
+ \n   • Windshield Wiper — 15 reps\n   • Plank Step Ups — 15 reps (
+ rest 60s)\n • Cool Down — open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 mile aerobic endurance
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e54@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 12 mi\nDuration: 15min\nTraining Load: 783\n\n12 
+ mile aerobic endurance run. Be sure to warm up and then cool down with a l
+ ight walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Training 
+ — 12 mi @ 77–87% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 mile aerobic endurance
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e218@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 12 mi\nDuration: 15min\nTraining Load: 783\n\n12 
+ mile aerobic endurance run. Be sure to warm up and then cool down with a l
+ ight walk and stretch\n\nWorkout:\n • Warm Up — 10min\n • Training 
+ — 12 mi @ 77–87% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e196@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 10min\nTraining Load: 122\n\nlig
+ ht warm up and then 8 miles aerobic endurance. Easy run overall!\n\nWorko
+ ut:\n • Warm Up — 5min\n • Training — 8 mi @ 80–90% HR\n • Cool Down 
+ — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:7 mile tempo run
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e197@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 8 mi\nDuration: 5min\nTraining Load: 146\n\n1 mi
+ le warm up\, and then into 7 miles tempo (aerobic power). Cool down after
+ .\n\nWorkout:\n • Warm Up — 1 mi\n • Training — 7 mi @ 91–95% HR\n
+  • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e198@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 91\n\nlight
+  6 mile run. keep the pace in your aerobic endurance field. Cool down aft
+ er\n\nWorkout:\n • Warm Up — 5min\n • Training — 6 mi @ 80–90% HR\n • 
+ Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile aerobic endurance run
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e199@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 91\n\nlight
+  warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 80–90% HR\n • Cool Down — 5
+ min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:22 mile long run
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e200@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 22 mi\nDuration: 15min\nTraining Load: 334\n\n22 
+ mile long run. Goal is a nice easy warm up and then start the 22 miles at
+  aerobic endurance. Finish with an easy walk and cool down.\n\nWorkout:\n
+  • Warm Up — 10min\n • Training — 22 mi @ 80–90% HR\n • Cool Down — 5m
+ in
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20 mile aerobic endurance
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e201@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 20 mi\nDuration: 15min\nTraining Load: 304\n\n20 
+ miles at aerobic endurance. Be sure to warm up and then cool down with a 
+ light walk and stretch.\n\nWorkout:\n • Warm Up — 10min\n • Training — 32
+ .11.8 mi @ 80–90% HR\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 mile easy run
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e204@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:Distance: 6 mi\nDuration: 10min\nTraining Load: 91\n\nlight
+  warm up and then 6 miles aerobic endurance. easy run overall!\n\nWorkout
+ :\n • Warm Up — 5min\n • Training — 6 mi @ 80–90% HR\n • Cool Down — 5
+ min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 mile easy run
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DTSTAMP:20260518T124334Z
+UID:running-the-rose-20270120-easy@coros-training-plan
+SEQUENCE:9
+DESCRIPTION:Distance: 5 mi\nDuration: 10min\nTraining Load: 326\n\nligh
+ t warm up and then 5 miles aerobic endurance. Easy run overall!\n\nWorkou
+ t:\n • Warm Up — 5min\n • Training — 5 mi @ 77–87% pace\n • Cool Down 
+ — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 mile easy run
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+DTSTAMP:20260518T124334Z
+UID:running-the-rose-20270121-easy@coros-training-plan
+SEQUENCE:9
+DESCRIPTION:Distance: 4 mi\nDuration: 10min\nTraining Load: 261\n\nligh
+ t 4 mile run. keep the pace in your aerobic endurance field. cool down af
+ ter\n\nWorkout:\n • Warm Up — 5min\n • Training — 4 mi @ 77–87% pace\n
+  • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2 mile shakeout
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DTSTAMP:20260518T124334Z
+UID:running-the-rose-20270122-shakeout@coros-training-plan
+SEQUENCE:9
+DESCRIPTION:Distance: 2 mi\nDuration: 10min\n\nlight 2 mile shakeout. K
+ eep the pace relaxed in your aerobic endurance field. Finish feeling fres
+ h for race day.\n\nWorkout:\n • Warm Up — 5min\n • Training — 2 mi @ 7
+ 7–87% pace\n • Cool Down — 5min
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100k Ultra!
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20260518T124334Z
+UID:450446477626621972-e66@coros-training-plan-exporter
+SEQUENCE:9
+DESCRIPTION:\nGood luck\, you got this. Follow your nutrition strategy and
+  aim to stay in aerobic endurance zone most of the time if possible.\n\nW
+ orkout:\n • Training — open @ 80–90% HR
+END:VEVENT
+END:VCALENDAR
